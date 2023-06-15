@@ -15,3 +15,7 @@ body {
 		rgba(15, 0, 22, 1) 100%
 	);
 }
+
+p {
+	color: azure;
+}
